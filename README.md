@@ -8,11 +8,10 @@
 <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250">
 
 <p>
-Soy <strong>Desarrolladora Front End</strong> apasionada por todas las nuevas tecnologías relacionadas al mundo de la programación y por crear distintas aplicaciones web enfocandome principalmente en Javascript ya que considero que es el corazón de la web,
-egresada de <a href = "https://www.laboratoria.la/" target="_blank">Laboratoria</a>, Chile. 
+Soy <strong>Desarrolladora Front End</strong> apasionada por todas las nuevas tecnologías relacionadas al mundo de la programación y por crear distintas aplicaciones web enfocandome principalmente en Javascript ya que considero que es el corazón de la web. 
 </p>
 <p>    
-Mi experiencia en el bootcamp de Laboratoria me ha permitido ir aprendiendo de manera autodidacta diferentes herramientas como: HTML, CSS, Javascript, Node, React,  Figma, firebase, entre otras, todo esto a través de la realización de diferentes proyectos.
+Soy egresada de <a href = "https://www.laboratoria.la/" target="_blank">Laboratoria</a>, Chile. Mi experiencia en el bootcamp me ha permitido ir aprendiendo de manera autodidacta diferentes herramientas como: HTML, CSS, Javascript, Node, React,  Figma, firebase, entre otras, todo esto a través de la realización de diferentes proyectos.
 También he adquirido conocimiento de la metodología ágil Scrum, tengo experiencia en distintos sectores en el área administrativa, atención al cliente, trabajo en equipo, y manejo de personal.  
 </p> 
 
@@ -29,9 +28,11 @@ const rossy = {
 ```
 --------------
 ### Repositorios:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=social-network&theme=highcontrast "social-network")](https://github.com/rossyalex/social-network )
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=data-lovers&theme=gotham "data-lovers")](https://github.com/rossyalex/data-lovers)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=card-validation&theme=midnight-purple "card-validation")](https://github.com/rossyalex/card-validation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=burger-queen&theme=radical "burger-queen")](https://github.com/rossyalex/burger-queen)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=md-links&theme=midnight-purple "md-links")](https://github.com/rossyalex/md-links)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=social-network&theme=gotham "social-network")](https://github.com/rossyalex/social-network )
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=rossyalex&repo=data-lovers&theme=highcontrast "data-lovers")](https://github.com/rossyalex/data-lovers)
+
 --------------
 <div>
 <p><strong>Tech Skills</strong></p>
